@@ -1,0 +1,34 @@
+.btn {
+  width: 200px;
+  padding: 10px 0;
+  background: none;
+  border: 0px;
+  border-radius: 10px;
+}
+.btn.btn-laranja {
+  background: red;
+  color: #fff;
+}
+.btn.btn-laranja:hover {
+  background: gray;
+}
+.btn.btn-azul {
+  background: #19066b;
+  color: #fff;
+}
+.btn.btn-azul:hover {
+  background: #393939;
+}
+.btn.btn-roxo {
+  background: purple;
+  color: #fff;
+}
+.btn.btn-roxo:hover {
+  background: #404040;
+}
+
+p {
+  color: #19066b;
+}
+
+/*# sourceMappingURL=style.css.map */
